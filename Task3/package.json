@@ -1,0 +1,15 @@
+{
+  "name": "task3",
+  "version": "1.0.0",
+  "description": "Task3",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Shubham Ajbale",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^5.1.0"
+  }
+}

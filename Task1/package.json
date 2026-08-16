@@ -1,0 +1,18 @@
+{
+  "name": "task1",
+  "version": "1.0.0",
+  "description": "Task1",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Shubham Ajbale",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.6",
+    "ejs": "^3.1.10",
+    "express": "^4.22.2"
+  },
+  "keywords": [],
+  "type": "commonjs"
+}
